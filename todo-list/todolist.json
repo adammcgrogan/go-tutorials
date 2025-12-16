@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Learn Go Structs",
+    "status": true
+  },
+  {
+    "id": 2,
+    "title": "Eat Pizza",
+    "status": false
+  }
+]
